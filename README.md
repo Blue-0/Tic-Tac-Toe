@@ -1,5 +1,5 @@
 # Tic Tac Toe
-
+https://blue-0.github.io/Tic-Tac-Toe/
 ## Introduction
 
 Ce projet est une implémentation simple du jeu classique Tic Tac Toe utilisant HTML, CSS, et JavaScript. Il est conçu pour être léger, facile à lancer, et accessible à tous.
